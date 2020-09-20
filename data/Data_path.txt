@@ -1,0 +1,7 @@
+#Glove.6B
+#http://nlp.stanford.edu/data/glove.6B.zip
+
+
+#train-v2.0.json:
+#链接：https://pan.baidu.com/s/15qhDecpHqW-mIrywHZJp3g
+#提取码：c739
